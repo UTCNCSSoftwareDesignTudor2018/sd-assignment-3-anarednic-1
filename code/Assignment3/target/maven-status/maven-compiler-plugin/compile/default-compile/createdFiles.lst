@@ -1,0 +1,17 @@
+businessLogic\ReaderBusinessLogic.class
+repository\ReaderRepo.class
+businessLogic\WriterBusinessLogic.class
+presentation\FirstFrame$2$1.class
+repository\ArticleRepo.class
+presentation\ReaderView.class
+presentation\FirstFrame$1.class
+businessLogic\ArticleBusinessLogic.class
+repository\WriterRepo.class
+entity\Article.class
+appStart\AppStart.class
+entity\Writer.class
+presentation\FirstFrame$2.class
+presentation\FirstFrame$1$1.class
+entity\Reader.class
+presentation\FirstFrame.class
+presentation\WriterView.class
